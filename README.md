@@ -1,1 +1,1 @@
-# knoz-server-2
+# Knoz-academy-server
